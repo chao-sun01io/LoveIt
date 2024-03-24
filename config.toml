@@ -20,10 +20,10 @@
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "My cool site"
+  title = "Chao's Garden"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "This is my cool site"
+  description = "Chao Sun's garden. It is inspired by digital garden concept, and the most importance philosphy is 'don't have to be perfect'. With this spirit, each posts here can be imperfect or incompelete, and hopeful it grows up and develops as time goes "
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
@@ -45,7 +45,7 @@
       logo = ""
       # title name
       # 标题名称
-      name = "My cool site"
+      name = "Chao's Garden"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -74,7 +74,7 @@
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2023
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -113,7 +113,7 @@
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "My cool site"
+    title = "Chao's garden"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -178,16 +178,16 @@
       avatarURL = ""
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "Chao's Garden"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "This is my cool site"
+      subtitle = "Hi there, welcome to my gardens"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
       # whether to show social links
       # 是否显示社交账号
-      social = true
+      social = false
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
       disclaimer = ""
